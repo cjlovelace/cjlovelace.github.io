@@ -1,5 +1,3 @@
-layout: page
-title: "Summer Undergraduate Research Experience: Virtual Reality and User Accessibility"
-permalink: /VR-Accessibility/
+This page is under construction in preparation for the SURE Research presentation on September 15th!
 
-Testing content here!
+Please watch this space for updates. :)
