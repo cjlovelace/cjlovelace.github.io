@@ -2,9 +2,3 @@ h1, h2 {
   background-color: #00274C;
   color: white;
 }
-
-iframe {
-	position: relative;
-	width:100vw;
-	height:100vh;
-}
