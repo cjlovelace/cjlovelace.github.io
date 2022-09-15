@@ -1,1 +1,1 @@
-Testing changes for main here.
+Welcome to my portfolio! While this potion is under construction, you can check out my SURE 2022 research project Virtual Reality and User Accessibility at https://cjlovelace.github.io/VR-Accessibility!
